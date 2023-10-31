@@ -3,7 +3,7 @@
     "path": "C:/Users/sandl/Desktop/Uni/MASTER/masterprojekt/R/R training second semester/zoesandle1.github.io/zoesandle1/about.Rmd",
     "project_path": "about.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1924189124",
     "contents": "",
     "dirty": false,
     "created": 1698684813993.0,
@@ -11,7 +11,9 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "1,23",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1698684804,

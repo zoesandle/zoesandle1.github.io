@@ -1,7 +1,11 @@
 ---
-title: "My Website"
+title: "Hello everyone"
+image: "title.jpg"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to the website. I hope you enjoy it! I am Zoé and  here I will try to post some stuff about me, my different interests and my Master Project. Thanks for stopping by!
+links:
+  - label: Email
+    url: "zoe.sandle@stud.unibas.ch"
 site: distill::distill_website
 ---
 

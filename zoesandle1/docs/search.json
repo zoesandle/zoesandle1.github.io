@@ -6,15 +6,23 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-10-30T17:56:35+01:00"
+      "last_modified": "2023-10-30T18:17:20+01:00"
     },
     {
       "path": "index.html",
-      "title": "My Website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "Hello everyone",
+      "description": "Welcome to the website. I hope you enjoy it! I am Zoé and  here I will try to post some stuff about me, my different interests and my Master Project. Thanks for stopping by!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-10-30T17:56:36+01:00"
+      "last_modified": "2023-10-30T18:17:21+01:00"
+    },
+    {
+      "path": "landingpage.html",
+      "title": "Landing Page",
+      "description": "Hier kann man noch eine Beschreibung für die Seite reinschreiben. (Sie wird aber nicht angezeigt, also mehr ein Kommentar als Beschreibung)",
+      "author": [],
+      "contents": "\r\nAuthor\r\n“Hello everyone, my name is Amanda. I am currently a psychology student based near the city of Basel. Alongside my academic pursuits, I find solace and joy in the art of crocheting, drawing, and gaming offers. I love good food and I am always to have for a good recommendation. Additionally, I cherish the moments spent with friends over good food and games.”\r\nIntroduction\r\n“In the field of risk assessment and management, understanding the temporal stability of risk perception plays a crucial role in decision-making processes. Temporal stability refers to the consistency of risk perception over time, highlighting the degree to which individuals or communities perceive and evaluate risks consistently across different time intervals.\r\nThis concept is essential in various domains, including environmental risk assessment, public health policy, and financial risk management. By examining the temporal stability of risk perception, researchers and policymakers can gain valuable insights into how individuals’ perceptions of risks evolve and how these changes impact decision-making strategies and risk communication efforts.\r\nUnderstanding the dynamics of temporal stability in risk perception can provide a comprehensive understanding of how societies respond to emerging threats and challenges, facilitating the development of proactive and effective risk mitigation strategies.”\r\n\r\n\r\n\r\nA landing page: Include author, published date, an introductory text, and a photo related to your website.\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-10-30T18:17:22+01:00"
     }
   ],
   "collections": []

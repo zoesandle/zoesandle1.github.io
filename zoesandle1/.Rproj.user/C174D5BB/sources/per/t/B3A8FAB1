@@ -3,7 +3,7 @@
     "path": "C:/Users/sandl/Desktop/Uni/MASTER/masterprojekt/R/R training second semester/zoesandle1.github.io/zoesandle1/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "2934143982",
     "contents": "",
     "dirty": false,
     "created": 1698684814744.0,
@@ -11,14 +11,16 @@
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "17,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1698684804,
+    "lastKnownWriteTime": 1698686234,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1698684804,
+    "last_content_update": 1698686234021,
     "read_only": false,
     "read_only_alternatives": []
 }
